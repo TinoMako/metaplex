@@ -1,1 +1,1 @@
-cryptopeers.store
+www.cryptopeers.store
